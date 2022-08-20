@@ -1,10 +1,10 @@
 # Nasa-Picture-App:
 
-Shows a different picture from the NASA library everyday with a short description about the picture. Utilizes the NASA APOD API and is mobile responsive as well. Designed using React, JavaScript, CSS, and Nasa APOD API. 
+Shows a different picture from the NASA library everyday with a short description about that picture. Utilizes the NASA APOD API and is mobile responsive as well. Designed using React, JavaScript, CSS, and Nasa APOD API. 
 
 ---
 
-# Preview-Nasa-Picture-App:
+# Preview-Of-Nasa-Picture-App:
 
 <img src="https://github.com/HadyM/Nasa-Picture-App/blob/main/nasa-app/Image%20Screenshots/Nasa%20API%20ScreenShots/HomeScreen.png" width="400" height="600"><br>
 <img src="https://github.com/HadyM/Nasa-Picture-App/blob/main/nasa-app/Image%20Screenshots/Nasa%20API%20ScreenShots/PictureDaily.png" width="400" height="600">
